@@ -7,7 +7,7 @@ about:
   head: ce4be70
   archived: false
   latestVersion: v1.2.1
-  collectedAt: 2026-09-04T19:50:34Z
+  collectedAt: 2026-09-04T20:50:31Z
 timeline:
   created: 2019-12-25
   lastCommit: 2026-07-13
@@ -85,6 +85,54 @@ total:
   openIssue: 0
   commit: 314
 ---
+path: /home/runner/.x-repo/github.com/wtetsu/gaze
+collectedAt: 2026-09-04T20:50:32Z
+loc:
+  Go:
+    code: 2958
+    comments: 767
+    blanks: 543
+    files: 28
+  Sh:
+    code: 191
+    comments: 8
+    blanks: 57
+    files: 6
+  Yaml:
+    code: 46
+    comments: 1
+    blanks: 1
+    files: 2
+  Makefile:
+    code: 43
+    comments: 0
+    blanks: 1
+    files: 1
+  Ruby:
+    code: 13
+    comments: 0
+    blanks: 4
+    files: 3
+  Python:
+    code: 12
+    comments: 0
+    blanks: 4
+    files: 3
+  Rust:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 230
+    blanks: 131
+    files: 2
+total:
+  code: 3307
+  comments: 1006
+  blanks: 742
+  files: 46
 ---
 date: "2026-08-24"
 repo:
