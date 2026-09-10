@@ -4,7 +4,7 @@
 
 👁️Executes commands for you
 
-![gaze](https://repo.x-cmd.io/gaze.svg)
+![gaze](https://repo.x-cmd.io/gaze.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,16 @@ x install gaze
 - **最新版本**: `v1.2.1` (2025-02-17)
 - **最近提交**: 2026-07-13
 - **Release 含资产**: 5 个
-- **发布时间**: 2025-02-17T12:50:53Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [gaze_linux_v1.2.1.zip](https://github.com/wtetsu/gaze/releases/download/v1.2.1/gaze_linux_v1.2.1.zip) | 1.4 MiB | `other` |
+| [gaze_macos_amd_v1.2.1.zip](https://github.com/wtetsu/gaze/releases/download/v1.2.1/gaze_macos_amd_v1.2.1.zip) | 1.4 MiB | `native/darwin/x64` |
+| [gaze_macos_arm_v1.2.1.zip](https://github.com/wtetsu/gaze/releases/download/v1.2.1/gaze_macos_arm_v1.2.1.zip) | 1.3 MiB | `native/darwin/x64` |
+| [gaze_windows_v1.2.1.zip](https://github.com/wtetsu/gaze/releases/download/v1.2.1/gaze_windows_v1.2.1.zip) | 1.5 MiB | `native/win/x64` |
+| [license.zip](https://github.com/wtetsu/gaze/releases/download/v1.2.1/license.zip) | 14.0 KiB | `other` |
 
 ## 流行度
 
@@ -71,4 +80,4 @@ gaze 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:25:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:15:47Z._
