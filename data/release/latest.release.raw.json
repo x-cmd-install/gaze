@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1469784,
       "digest": null,
-      "download_count": 154,
+      "download_count": 156,
       "created_at": "2025-02-17T12:51:14Z",
       "updated_at": "2025-02-17T12:51:14Z",
       "browser_download_url": "https://github.com/wtetsu/gaze/releases/download/v1.2.1/gaze_linux_v1.2.1.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1472355,
       "digest": null,
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2025-02-17T12:51:14Z",
       "updated_at": "2025-02-17T12:51:14Z",
       "browser_download_url": "https://github.com/wtetsu/gaze/releases/download/v1.2.1/gaze_macos_amd_v1.2.1.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1381899,
       "digest": null,
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2025-02-17T12:51:14Z",
       "updated_at": "2025-02-17T12:51:14Z",
       "browser_download_url": "https://github.com/wtetsu/gaze/releases/download/v1.2.1/gaze_macos_arm_v1.2.1.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1598534,
       "digest": null,
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2025-02-17T12:51:14Z",
       "updated_at": "2025-02-17T12:51:14Z",
       "browser_download_url": "https://github.com/wtetsu/gaze/releases/download/v1.2.1/gaze_windows_v1.2.1.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14293,
       "digest": null,
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2025-02-17T12:54:41Z",
       "updated_at": "2025-02-17T12:54:41Z",
       "browser_download_url": "https://github.com/wtetsu/gaze/releases/download/v1.2.1/license.zip"
