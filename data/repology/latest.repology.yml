@@ -14,8 +14,8 @@
   srcname: gaze-bin
   binname: gaze-bin
   visiblename: gaze-bin
-  version: 0.3.1
-  origversion: 0.3.1-1
+  version: 0.3.2
+  origversion: 0.3.2-1
   status: outdated
   summary: Daemon, CLI, and PAM integration for Gaze
   maintainers:
